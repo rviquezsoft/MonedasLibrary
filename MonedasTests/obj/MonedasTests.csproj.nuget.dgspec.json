@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasTests/MonedasTests.csproj": {}
+  },
+  "projects": {
+    "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/MonedasLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/MonedasLibrary.csproj",
+        "projectName": "MonedasLibrary",
+        "projectPath": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/MonedasLibrary.csproj",
+        "packagesPath": "/Users/mobilesofnomic/.nuget/packages/",
+        "outputPath": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mobilesofnomic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sofnomic/SofnomicOrdenes/_packaging/modelsfeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sofnomic/_packaging/sofnomic/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasTests/MonedasTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasTests/MonedasTests.csproj",
+        "projectName": "MonedasTests",
+        "projectPath": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasTests/MonedasTests.csproj",
+        "packagesPath": "/Users/mobilesofnomic/.nuget/packages/",
+        "outputPath": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mobilesofnomic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sofnomic/SofnomicOrdenes/_packaging/modelsfeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sofnomic/_packaging/sofnomic/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/MonedasLibrary.csproj": {
+                "projectPath": "/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/MonedasLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

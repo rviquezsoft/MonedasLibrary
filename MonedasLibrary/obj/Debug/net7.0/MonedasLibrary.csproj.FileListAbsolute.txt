@@ -1,0 +1,12 @@
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/bin/Debug/net7.0/MonedasLibrary.deps.json
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/bin/Debug/net7.0/MonedasLibrary.dll
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/bin/Debug/net7.0/MonedasLibrary.pdb
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.csproj.AssemblyReference.cache
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.AssemblyInfoInputs.cache
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.AssemblyInfo.cs
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.csproj.CoreCompileInputs.cache
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.dll
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/refint/MonedasLibrary.dll
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/MonedasLibrary.pdb
+/Users/mobilesofnomic/Projects/MonedasLibrary/MonedasLibrary/obj/Debug/net7.0/ref/MonedasLibrary.dll
